@@ -715,8 +715,11 @@ h3.my-profession{
     padding: 0 50px;
 }
 
-
-
+.contact .credit{
+    text-align: center;
+    font-size: large;
+    color: var(--skin-color);
+}
 
 
 
