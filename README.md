@@ -44,7 +44,7 @@ Welcome to my portfolio!. I'm a Front-End Developer with extensive for over 1 ye
 - **Description:** Fitness Fusion is a comprehensive fitness website that offers personalized workout plans, nutrition advice, and tools to track progress. The website is designed to cater to individuals at all fitness levels, from beginners to advanced athletes.
 - **Technologies Used:** HTML5, CSS3, JavaScript.
 -  **Responsive Design:** Enjoy a seamless experience on any device, whether desktop or mobile.
-- **GitHub Repository:** [Link to the repository](https://github.com/jeeva79/fitness/)
+- **GitHub Repository:** [Fitness Website](https://github.com/jeeva79/fitness/)
 
 
 ## Skills
