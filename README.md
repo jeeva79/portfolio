@@ -1,20 +1,23 @@
-# Portfolio
+# Portfolio 🐱‍🏍
 
 Welcome to my portfolio!. I'm a Front-End Developer with extensive for over 1 years.My expertise is to create and website designand many more.
+
+![Screenshot (25)](https://github.com/jeeva79/portfolio/assets/125794481/4fa44631-13d7-42ea-a76e-064fa3b9c919)
+
 
 ## Table of Contents
 
 1. [About Me](#about-me)
    
 2. [Projects](#projects)
-   
+         
     - [Cosmetic Website](#Cosmetic-Website)
     - [Fashion Website](#Fashion-Website)
     - [Fitness Website](#Fitness-Website)
 
-      
 3. [Skills](#skills)
-4. [Contact](#contact)
+4. [License](#license)
+5. [Contact](#contact)
 
 ## About Me
 
@@ -55,6 +58,31 @@ Welcome to my portfolio!. I'm a Front-End Developer with extensive for over 1 ye
 - **Frameworks and Libraries:** Experienced with React for building dynamic web applications.
 - **Responsive Design:** Skilled in designing websites that work seamlessly across various devices, including desktops, tablets, and smartphones.
 - **UI/UX Design:** Expertise in creating user-friendly and intuitive interfaces that enhance the user experience.
+
+
+  ## License
+
+MIT License
+
+Copyright (c) 2024 Jeeva.P
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Contact
 
